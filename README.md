@@ -13,7 +13,6 @@ Bu uygulama, fabrikalarda çalışan personel için tasarlanmıştır. Kullanıc
 - **Node.js**
 - **WhatsApp Business API**
 - **Glitch**
-- **MongoDB**
 
 ## 🚀 Özellikler
 
